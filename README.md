@@ -13,4 +13,4 @@
 和com.xiaour.spring.boot.kafka.consumer.Consumer
 的动向；
 
-![comsumer](https://github.com/marcusfang/SpringBoot-Kafka/master/src/main/resources/static/consumer.png)
+![comsumer](https://github.com/marcusfang/SpringBoot-Kafka/blob/master/src/main/resources/static/comsumer.png)
